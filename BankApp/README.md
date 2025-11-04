@@ -21,13 +21,3 @@ A **desktop banking application** built with **Java** using **Java Swing** for t
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repo-name.git
-2. Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
-
-3. Set up the MySQL database and configure connection settings in the project.
-
-4. Compile and run the application.
